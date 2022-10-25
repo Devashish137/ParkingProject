@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "vehicleno": "MH 2001",
+      "drivername": "Prathamesh Khade",
+      "checkin": "10:00 am",
+      "checkout": "11:00 pm"
+    },
+    {
+        "id": 2,
+        "vehicleno": "MH 2002",
+        "drivername": "Prathh Khan",
+        "checkin": "10:04 am",
+        "checkout": "15:00 pm"
+    },
+    {
+        "id": 3,
+        "vehicleno": "MH 2003",
+        "drivername": "Prathh Kholi",
+        "checkin": "1:04 am",
+        "checkout": "15:05 pm"
+    },
+    {
+        "id": 4,
+        "vehicleno": "MH 2042",
+        "drivername": "Prah Khan",
+        "checkin": "50:04 am",
+        "checkout": "14:00 pm"
+    }
+  ]
